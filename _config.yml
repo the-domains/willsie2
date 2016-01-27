@@ -6,10 +6,10 @@ color:
     - '#A86068'
     - '#A81048'
     - '#000000'
-  brandStrength: 0.9972403827123344
-  lightness: 0.5412797403987497
-  rhythmicContrast: 0.8028140249662101
-  saturation: 0.3812785600312054
+  brandStrength: 0.361486
+  lightness: 0.717905
+  rhythmicContrast: 0.076013
+  saturation: 0.261824
 cta: {}
 layout_spectrum: 0.78161
 name: Willsie2
