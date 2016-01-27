@@ -1,23 +1,18 @@
-name: Willsie2
-favicon: null
-layout_spectrum: 0.78161
-typography_spectrum: 0.6333492966368794
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
-  brandColors: []
+  brandColors:
+    - '#D8B0B0'
+    - '#081040'
+    - '#A86068'
+    - '#A81048'
+    - '#000000'
   brandStrength: 0.9972403827123344
   lightness: 0.5412797403987497
-  saturation: 0.3812785600312054
   rhythmicContrast: 0.8028140249662101
+  saturation: 0.3812785600312054
+cta: {}
+layout_spectrum: 0.78161
+name: Willsie2
+opengraph: {}
 purpose: []
+typography_spectrum: 0.469594
